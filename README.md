@@ -1,1 +1,1 @@
-# CameronKirksey.github.io
+Welcome to my portfolio! I built this website with React, Three.js and Tailwind. It is very user-friendly and appealing to the eye. Play with the 3D visual and catch some inspiration for your own portfolio.
