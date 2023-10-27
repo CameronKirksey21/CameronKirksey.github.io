@@ -22,7 +22,7 @@ import threejs from './tech/threejs.svg';
 import postgresql from './tech/postgresql.png';
 import kubernetes from './tech/kubernetes.png';
 
-import kuview from './company/Kuview_logo.jpeg';
+import kuview from './company/kuview_logo.jpeg';
 import sca from './company/sca.png';
 import gigmanager from './gigmanager.png';
 import tracklication from './Tracklication.png';
