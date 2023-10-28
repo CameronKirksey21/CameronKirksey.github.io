@@ -192,7 +192,8 @@ const projects = [
       },
     ],
     image: myportfolio,
-    source_code_link: 'https://github.com/CameronKirksey21/My-Portfolio',
+    source_code_link:
+      'https://github.com/CameronKirksey21/CameronKirksey.github.io',
   },
   {
     name: 'Tracklication',
